@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://overgire.github.io/sitemap.html.gz
+Sitemap: https://overgire.github.io/app/sitemap.html.gz
+Sitemap: https://overgire.github.io/assets/sitemap.html.gz
+Sitemap: https://overgire.github.io/css/sitemap.html.gz
+Sitemap: https://overgire.github.io/includes/sitemap.html.gz
+Sitemap: https://overgire.github.io/item/sitemap.html.gz
+Sitemap: https://overgire.github.io/src/sitemap.html.gz
